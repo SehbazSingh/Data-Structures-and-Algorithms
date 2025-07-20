@@ -18,7 +18,6 @@ bool isvalid(vector<int> &stall, int N, int maxval, int C) {
     return false;
 }
 
-
 int main() {
 
 	int N, C;
