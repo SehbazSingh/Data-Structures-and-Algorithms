@@ -9,6 +9,7 @@ public:
             if (i>0 && nums[i] == nums[i-1]){
                 i++;
                 continue;
+                
             }
             int j =i+1 ;
             int k = nums.size()-1;
